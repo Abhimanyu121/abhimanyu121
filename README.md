@@ -8,8 +8,8 @@
 Hi, I am Abhimanyu Shekhawat, passionate and self taught developer from India.
 
 - 🔭 I’m an active Gitcoiner [Abhimanyu121](https://gitcoin.co/abhimanyu121)
-- 🌱 I'm currently interning at The Linux Foundation.
-- 🌱 I'm a web3/ Blockchain dev as well as a flutter developer.
+- 🌱 I have been intern at The Linux Foundation.
+- 🌱 I am a flutter and Web3 developer.
 
 
 <!--- 
