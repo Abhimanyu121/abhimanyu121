@@ -7,9 +7,9 @@
 
 Hi, I am Abhimanyu Shekhawat, passionate and self taught developer from India.
 
+- 🌱 I am co-founder of Orange Wallet
 - 🔭 I’m an active Gitcoiner [Abhimanyu121](https://gitcoin.co/abhimanyu121)
-- 🌱 I have been intern at The Linux Foundation.
-- 🌱 I am a flutter and Web3 developer.
+
 
 
 <!--- 
