@@ -5,10 +5,15 @@
 <br />
 <br />
 
-Hi, I am Abhimanyu Shekhawat, passionate and self taught developer from India.
+Hi, I am Abhimanyu Shekhawat,working in web3 from 2018, trying out things I find interesting.
+<br />
 
-- 🌱 I am co-founder of Orange Wallet
-- 🔭 I’m an active Gitcoiner [Abhimanyu121](https://gitcoin.co/abhimanyu121)
+Right now I am deep diving into account abstraction.
+
+- 🌱 Co-founder of Epoch protocol.
+- 🏆 Co-founded Slick wallet, which got acquired.
+- 🏘️ Was part of kernel genesis block.
+- 🔭 Used to be an active Gitcoiner [Abhimanyu121](https://bounties.gitcoin.co/abhimanyu121)
 
 
 
