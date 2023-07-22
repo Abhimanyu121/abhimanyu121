@@ -11,7 +11,7 @@ Hi, I am Abhimanyu Shekhawat,working in web3 from 2018, trying out things I find
 Right now I am deep diving into account abstraction.
 
 - 🌱 Co-founder of Epoch protocol.
-- 🏆 Co-founded Slick wallet, which got acquired.
+- 🏆 Co-founded Slick wallet.
 - 🏘️ Was part of kernel genesis block.
 - 🔭 Used to be an active Gitcoiner [Abhimanyu121](https://bounties.gitcoin.co/abhimanyu121)
 
